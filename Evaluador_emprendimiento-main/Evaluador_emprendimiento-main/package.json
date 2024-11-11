@@ -1,0 +1,23 @@
+{
+    "name": "langflow-api",
+    "version": "1.0.0",
+    "description": "Client for Langflow API using Vue.js and Vite",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "axios": "^1.7.4",
+        "marked": "^14.0.0",
+        "vue": "^3.2.0",
+        "vue-router": "^4.4.3"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.1.2",
+        "vite": "^5.4.2"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
